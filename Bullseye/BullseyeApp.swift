@@ -2,7 +2,7 @@
 //  BullseyeApp.swift
 //  Bullseye
 //
-//  Created by Ronan Fernandes OLX on 23/07/26.
+//  Created by Ronan Fernandes on 23/07/26.
 //
 
 import SwiftUI
